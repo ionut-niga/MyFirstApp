@@ -6,5 +6,6 @@ namespace MyFirstApp
 {
     class MyClass
     {
+        //code
     }
 }
